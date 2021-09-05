@@ -19,4 +19,4 @@ Afin de pouvoir compiler et uploader le code nécessaire au fonctionnement du sy
 
 ### Application mobile
 
-Seuls les smartphones Android sont actuellement supportés. Pour compiler l'application Android, il faut utiliser la version 2020.3.1 Beta 4 d'Android Studio. Certaines dépendances ne sont pas à jour, mais devraient être mise à jour prochainement.
+Seuls les smartphones Android sont actuellement supportés. Pour compiler l'application Android, il faut utiliser la version 2020.3.1 Beta 4 d'Android Studio. Certaines dépendances ne sont pas actuelles, mais devraient être mise à jour prochainement.
